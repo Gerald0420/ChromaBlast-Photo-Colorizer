@@ -1,0 +1,5 @@
+{
+  "name": "ChromaBlast: Photo Colorizer",
+  "description": "An application that leverages AI to colorize sepia and black & white photographs, allowing users to provide historical context like timeframe and setting details to improve the results.",
+  "requestFramePermissions": []
+}
